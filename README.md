@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Kenia Decoteau 👋
 I'm currently working to learn all the fundamentals of javascript to help me along my Software Devolpment journey.
 Being a first generation software engineer i want to bring more tech awarness to my community 🤎
 
