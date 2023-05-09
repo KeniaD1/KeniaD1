@@ -2,7 +2,7 @@
 I'm currently working to learn all the fundamentals of javascript to help me along my Software Development journey.
 Being a first generation software engineer i want to bring more tech awarness to my community 🤎
 
-<imghttps://github-readme-stats.vercel.app/api?username=keniaD1&show_icons=true&theme=gruvbox/>
+<img https://github-readme-stats.vercel.app/api?username=keniaD1&show_icons=true&theme=gruvbox/>
 
 <!--
 **KeniaD1/KeniaD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
