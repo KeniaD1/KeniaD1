@@ -4,7 +4,7 @@ Being a first generation software engineer i want to bring more tech awarness to
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=keniaD1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-(https://github-readme-stats.vercel.app/api?username=keniaD1&show_icons=true&theme=gruvbox)
+https://github-readme-stats.vercel.app/api?username=keniaD1&show_icons=true&theme=gruvbox
 
 <!--
 **KeniaD1/KeniaD1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
